@@ -1,0 +1,78 @@
+﻿  lowpasstest.cpp
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(77): warning C4005: 'OCTAVE': 巨集重複定義
+  d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(13): note: 請參閱 'OCTAVE' 之前的定義
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(79): warning C4005: 'LAYER': 巨集重複定義
+  d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(14): note: 請參閱 'LAYER' 之前的定義
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(81): warning C4005: 'nOctaveLayers': 巨集重複定義
+  d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(15): note: 請參閱 'nOctaveLayers' 之前的定義
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(83): warning C4005: 'DOG_LAYER': 巨集重複定義
+  d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(16): note: 請參閱 'DOG_LAYER' 之前的定義
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(194): warning C4018: '<': signed/unsigned 不相符
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(207): warning C4018: '<': signed/unsigned 不相符
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(230): warning C4018: '<': signed/unsigned 不相符
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(239): warning C4018: '<': signed/unsigned 不相符
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(190): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(191): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(203): warning C4474: 'fprintf': 傳遞給格式字串的引數太多
+  d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(203): note: 預留位置及其參數需要 0 個 variadic 引數，但卻提供了 1 個
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(216): warning C4474: 'fprintf': 傳遞給格式字串的引數太多
+  d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(216): note: 預留位置及其參數需要 0 個 variadic 引數，但卻提供了 1 個
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(305): warning C4101: 'kpt_tmp': 未參考的區域變數
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(497): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(497): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(499): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(499): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(500): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(500): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(505): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(505): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(506): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(506): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(507): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(507): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(508): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(508): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(509): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(509): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(510): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(510): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(491): warning C4101: 'H_trace': 未參考的區域變數
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(492): warning C4101: 'D1': 未參考的區域變數
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(493): warning C4101: 'D2': 未參考的區域變數
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(754): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(755): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(850): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(937): warning C4018: '<': signed/unsigned 不相符
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(939): warning C4018: '<': signed/unsigned 不相符
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(961): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(962): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(966): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(967): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(934): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(981): warning C4474: 'fprintf': 傳遞給格式字串的引數太多
+  d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(981): note: 預留位置及其參數需要 0 個 variadic 引數，但卻提供了 1 個
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(993): warning C4474: 'fprintf': 傳遞給格式字串的引數太多
+  d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(993): note: 預留位置及其參數需要 0 個 variadic 引數，但卻提供了 1 個
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(919): warning C4101: 's_size': 未參考的區域變數
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(922): warning C4101: 'min_distance_data': 未參考的區域變數
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(920): warning C4101: 'b_size': 未參考的區域變數
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(1078): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(1087): warning C4018: '<': signed/unsigned 不相符
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(1096): warning C4018: '<': signed/unsigned 不相符
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(1108): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(1127): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(1132): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(1137): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(1140): warning C4474: 'fscanf': 傳遞給格式字串的引數太多
+  d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(1140): note: 預留位置及其參數需要 0 個 variadic 引數，但卻提供了 1 個
+d:\dropbox\sift硬體fpga實現\fpga_sift_2018_06_19\sift_int_2018_06_19\lowpasstest\lowpasstest.cpp(1140): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+  lowpasstest.vcxproj -> D:\Dropbox\SIFT硬體FPGA實現\FPGA_SIFT_2018_06_19\SIFT_Int_2018_06_19\Debug\lowpasstest.exe
+  lowpasstest.vcxproj -> D:\Dropbox\SIFT硬體FPGA實現\FPGA_SIFT_2018_06_19\SIFT_Int_2018_06_19\Debug\lowpasstest.pdb (Full PDB)
